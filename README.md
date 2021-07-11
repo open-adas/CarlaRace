@@ -1,6 +1,8 @@
 # CarlaRace
 Set of scripts for creating a highway racing environment for self-driving agents.
 
+![Demo](https://raw.githubusercontent.com/Mid-Night-Club/CarlaRace/master/demo.png)
+
 ## Track
 
 This environment launches CARLA and loads the highway map, adding 25 civilian cars there.
